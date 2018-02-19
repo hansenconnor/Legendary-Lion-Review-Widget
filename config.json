@@ -1,0 +1,13 @@
+[
+{
+  "settings" : {
+    "generalSettings" : {
+      "positiveFeedbackUrl": "https://google.com",
+      "negativeFeedbackUrl": "form",
+      "numStarsForPositiveFeedback": 3
+    },
+    "designOptions" : {
+      "modal" : "false"
+    } 
+  }
+}]
